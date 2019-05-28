@@ -8,6 +8,6 @@ end
 
 array
 else 
-  puts "Hey! No block given!"
+  puts "Hey! No block was given!"
 end 
 end 
